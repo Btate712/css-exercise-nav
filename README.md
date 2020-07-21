@@ -1,8 +1,10 @@
 # css-exercise-nav
 Exercise - Styling a Navbar
 
-# Instructions:
-Add code to the file "style.css" to make this page look a little better:
+## Instructions:
+The object of this assignment is to add styling to a plain HTML document to match the look and feel specified by the customer, Generic Inc.
+
+Add code to the file "style.css" to make the page meet the customer's specifications:
 
 - The company logo should be 100px by 100px.
 - The nav section should have a background color of #8287ab.
@@ -11,3 +13,5 @@ Add code to the file "style.css" to make this page look a little better:
 - Nav item links should change color to #4b517e when hovered over.
 - The background color of the main section should be #4b517e.
 - The font color in the main section should be #b8b440.
+- The finished product should look like the following image:
+

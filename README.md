@@ -1,7 +1,7 @@
 # css-exercise-nav
 Exercise - Styling a Navbar
 
-# Instructions:
+## Instructions:
 Add code to the file "style.css" to make this page look a little better:
 
 - The company logo should be 100px by 100px.

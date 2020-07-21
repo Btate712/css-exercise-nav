@@ -14,4 +14,4 @@ Add code to the file "style.css" to make the page meet the customer's specificat
 - The background color of the main section should be #4b517e.
 - The font color in the main section should be #b8b440.
 - The finished product should look like the following image:
-
+![]("Solution Image.png")

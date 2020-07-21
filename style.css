@@ -1,3 +1,7 @@
+body {
+  margin: 0;
+}
+
 #logo img {
   height: 100px;
   width: 100px;
@@ -34,17 +38,19 @@ nav {
   text-decoration: none;
 }
 
+.nav-list-item a:visited {
+  color: #0017f5;
+}
+
 .nav-list-item a:hover {
-  text-decoration: none;
   color: #4b517e;
 }
 
 main {
   background: #4b517e;
   height: 90vh;
-  color: rgb(184, 180, 64);
+  color: #b8b440;
 }
-
 
 main h1 {
   margin-top: 0;
